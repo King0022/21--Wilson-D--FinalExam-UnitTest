@@ -1,18 +1,14 @@
 package Final.maven2;
 
-import static org.junit.Assert.*;
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.Test;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
-import Final.maven2.StringCalculator;
+class StringCalcTestActual {
 
-public class StringCalculatorTest {
-
-	private StringCalculator stringCalc;
+private StringCalculator stringCalc;
 	
 	@BeforeEach
     public void setUp() {
