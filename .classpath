@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/apiguardian-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/junit-jupiter-api-5.8.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/junit-jupiter-engine-5.8.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/junit-platform-commons-1.8.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/junit-platform-engine-1.8.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/kotlin-stdlib-1.4.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/kotlin-stdlib-common-1.4.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/kotlin-stdlib-jdk7-1.4.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/kotlin-stdlib-jdk8-1.4.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter engine/opentest4j-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter api/apiguardian-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter api/junit-jupiter-api-5.8.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter api/junit-platform-commons-1.8.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Java Stuff/junit.jupiter api/opentest4j-1.2.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
