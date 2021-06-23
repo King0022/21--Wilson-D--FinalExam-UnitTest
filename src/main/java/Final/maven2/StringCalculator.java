@@ -5,7 +5,7 @@ public class StringCalculator {
 	      int returnValue = 0;
 	      String[] numbersArray = numbers.split(",|\n"); 
 	      for (String number : numbersArray) {
-	         if (!number.trim().isEmpty()) {
+	         if (!number.trim().isEmpty() && Integer.parseInt(number.trim()) <= 1000) {
 	            if (Integer.parseInt(number.trim()) < 0) {
 	            	throw new IndexOutOfBoundsException("negative numbers not allowed");
 	            }
