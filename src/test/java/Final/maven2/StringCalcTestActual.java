@@ -27,4 +27,11 @@ private StringCalculator stringCalc;
 		assertEquals("negative numbers not allowed", exception.getMessage());
 	}
 
+	@Test
+	public void testOverOneThousand() {
+		String numbers = "1, 2, 1003";
+		int actual = stringCalc.add(numbers);
+		assertEquals(3, actual);
+	}
+	
 }
