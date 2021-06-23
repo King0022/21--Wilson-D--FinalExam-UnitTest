@@ -34,5 +34,4 @@ private StringCalculator stringCalc;
 		assertEquals(3, actual);
 	}
 	
-	/* I added this comment to trigger a travis build */
 }
